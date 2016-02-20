@@ -1,0 +1,1 @@
+In order to run this, run the setup.exe. If you already have XNA installed then it will fail. Other wise it will run the install. Once that's done, run StateMachineProject.application and everything should work fine.
