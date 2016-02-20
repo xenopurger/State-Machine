@@ -1,0 +1,15 @@
+﻿toFireState
+0 
+0
+toRepairState 
+1 
+1
+toBuildState 
+2 
+2
+toDestroyState 
+3 
+3
+toThinkState
+4
+4
